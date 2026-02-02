@@ -18,7 +18,7 @@ class MainActivity : AppCompatActivity() {
 
     private val generativeModel = GenerativeModel(
         modelName = "gemini-1.5-flash-latest",
-        apiKey = "AIzaSyBJKVK-j27SZJ77CEXqwGMf3EKh-6MqSnI"
+        apiKey = "YOUR_GEMINI_API_KEY_HERE"
     )
 
     private val speechResultLauncher = registerForActivityResult(
