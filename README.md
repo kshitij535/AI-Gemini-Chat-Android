@@ -27,8 +27,16 @@ The app is designed with a "Security First" mindset. The API key is managed via 
 
 
 ---
+## 📸 Screenshots 
+| 1st - Welcome | 2nd - User Query | 3rd - AI Response |
+| :---: | :---: | :---: |
+| <img src="./screenshots/1st image.jpg" width="200"> | <img src="./screenshots/2nd image.jpg" width="200"> | <img src="./screenshots/3rd image.jpg" width="200"> |
 
+| 4th - Voice Input | 5th - Error Handling | 6th - Detailed Chat |
+| :---: | :---: | :---: |
+| <img src="./screenshots/4th image.jpg" width="200"> | <img src="./screenshots/5th image.jpg" width="200"> | <img src="./screenshots/6th image.jpg" width="200"> |
 
+---
 
 ## 👨‍💻 Engineering Highlights (For Recruiters)
 - **Graceful Degradation**: If the API fails, the app uses pattern matching to provide relevant local responses.
